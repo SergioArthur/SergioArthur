@@ -1,17 +1,16 @@
-name: Latest WebDev blog activity
+name: Latest blog post workflow
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from WebDev
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts from WebDev
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest WebDev data"
           feed_list: "https://webdevoficial.com.br/feed/"
