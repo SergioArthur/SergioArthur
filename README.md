@@ -42,6 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como posso programar as minhas postagens e/ou produtos novos no site?](https://webdevoficial.com.br/como-posso-programar-as-minhas-postagens-e-ou-produtos-novos-no-site/)
+- [Como gerenciar os e-mails enviados / recebidos do meu site?](https://webdevoficial.com.br/como-gerenciar-os-e-mails-enviados-recebidos-do-meu-site/)
+- [Como me proteger de ataques de força bruta?](https://webdevoficial.com.br/como-me-proteger-de-ataques-de-forca-bruta/)
+- [O que é e para o que serve o WordPress?](https://webdevoficial.com.br/o-que-e-e-para-o-que-serve-o-wordpress/)
+- [Como atingir mais clientes para o meu negócio?](https://webdevoficial.com.br/como-atingir-mais-clientes-para-o-meu-negocio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
