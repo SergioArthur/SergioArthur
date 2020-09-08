@@ -2,6 +2,7 @@ name: Update README
 
 on:
   schedule:
+    branches: [master]
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
