@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=WebDevOficial.com.br&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://webdevoficial.com.br/)
 
-## I'm a Husband, Developer, and <u>always</u> a student! 😉
+## I'm a Developer and <u>always</u> a student! 😉
 
 - 🔭 I’m currently working in some private projects!
 - 🌱 I’m currently learning android app development
